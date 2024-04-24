@@ -1,0 +1,39 @@
+.red{
+    width: 233px;
+    height: 192px;
+    background: red;
+    top: 11px;
+    left: 12px;
+     z-index: 4;
+   position: absolute;
+
+   
+}
+.green{
+    width: 233px;
+    height: 192px;
+    background-color:#05fc00;
+    top: 107px;
+    left: 128px;
+    z-index: 3;
+    position: absolute;
+}
+.blue{
+    width: 233px;
+    height:192px ;
+    background-color: blue;
+    top: 203px;
+    left: 244px;
+    z-index: 1;
+    position: relative;
+
+}
+.yellow{
+    width: 233px;
+    height: 192px;
+    background-color: yellow;
+    top: 60px;
+    left: 314px;
+    z-index: 2;
+    position: relative;
+}
